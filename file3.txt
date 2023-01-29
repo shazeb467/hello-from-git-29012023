@@ -1,0 +1,2 @@
+This is my 3rd file.
+I am trying to push this file into sub-branch "feature1" under main (Master) branch

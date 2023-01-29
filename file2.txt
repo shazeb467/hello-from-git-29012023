@@ -1,0 +1,5 @@
+Hi this side your host and ghost !!
+Testing myself git file2
+Testing myself git file2
+
+These are changes saved later, will be reflect if you type on cmd: git diff
