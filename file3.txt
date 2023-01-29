@@ -1,2 +1,6 @@
 This is my 3rd file.
 I am trying to push this file into sub-branch "feature1" under main (Master) branch
+
+
+That was a quick demo
+Hope you enjoyed it
